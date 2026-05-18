@@ -29,6 +29,15 @@
 
 > 欢迎加入鼠鼠实习就业交流群，QQ群号：976187338。
 
+## 友情链接与灵感来源
+
+- 友情链接：[鼠鼠实习简历优化器](https://github.com/Sunanzhe2004/shushu-internship-resume-optimizer)。
+- 灵感来源：[leilon](https://github.com/leilon)，本 skill 的想法受到其相关实践与分享启发。
+
+## Star 趋势
+
+[![Star History Chart](https://api.star-history.com/svg?repos=LiuMengxuan04/shushu-internship-tool&type=Date)](https://www.star-history.com/#LiuMengxuan04/shushu-internship-tool&Date)
+
 ## 它能做什么
 
 - 根据 JD（岗位描述/招聘需求）找 2-3 个合适的 GitHub 项目，并按岗位匹配度、上手速度、可讲亮点、运行成本和改造空间排序。
