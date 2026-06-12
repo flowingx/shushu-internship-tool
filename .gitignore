@@ -26,3 +26,10 @@ artifacts/
 .DS_Store
 .idea/
 .vscode/
+
+# MiMoCode local memory
+.mimocode/
+
+# Large model files
+data_agent_project/models/
+*.gguf
