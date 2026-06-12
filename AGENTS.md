@@ -4,20 +4,23 @@ AI internship project preparation toolkit. Turns a JD into a resume-ready and in
 
 ## Setup
 
+Requires Python >=3.10. Dev deps: pytest>=8, PyYAML>=6.
+
 ```bash
 cd shushu-internship-tool
-python3 -m venv .venv
-. .venv/bin/activate
-python -m pip install -e ".[dev]"
+uv venv
+uv pip install -e ".[dev]"
 ```
 
-Requires Python >=3.10. Dev deps: pytest>=8, PyYAML>=6.
+Or activate manually: `. .venv/bin/activate`.
 
 ## Test
 
 ```bash
 pytest
 ```
+
+Or without activating: `uv run pytest`.
 
 No lint, typecheck, or formatter is configured. Do not assume ruff/mypy/black exist.
 
